@@ -1,0 +1,1 @@
+INSERT INTO students VALUES (1,'Nacho','Muzio','3323132')
